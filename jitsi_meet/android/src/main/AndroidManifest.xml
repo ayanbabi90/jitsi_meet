@@ -1,7 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   package="com.gunschu.jitsi_meet">
-    <application
-        android:name="${applicationName}">
+    <application>
         <activity
             android:name=".JitsiMeetPluginActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize"
